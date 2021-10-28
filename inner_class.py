@@ -1,10 +1,10 @@
 class PlacementPreparation:
     def __init__(self):
-        self.course = "TCS Campus preparation"
+        self.course = "Campus preparation"
         self.duration = "2 months"
    
     def show(self):
-        print("Course:", self.course)   #Course: TCS Campus preparation
+        print("Course:", self.course)   #Course: Campus preparation
         print("Duration:", self.duration) #Duration: 2 months
 outer = PlacementPreparation()
 outer.show()
