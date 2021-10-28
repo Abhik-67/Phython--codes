@@ -29,6 +29,6 @@ lap1 = Student.Laptop()
 OUTPUT:
 ABHIK 1000
 DELL i5 8
-DEBRAJ 1001
+AVISKA 1001
 DELL i5 8
 '''
