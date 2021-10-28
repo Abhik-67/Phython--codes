@@ -18,7 +18,7 @@ class Student:
             print(self.brand, self.cpu, self.ram)        
 
 s1 = Student('ABHIK',1000)
-s2 = Student('DEBRAJ',1001)        
+s2 = Student('AVISKA',1001)        
 
 s1.show()
 s2.show()
